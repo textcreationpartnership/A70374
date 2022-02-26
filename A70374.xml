@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse concerning banks</title>
+            <author>Janssen, Theodore, Sir, 1658?-1748.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70374</idno>
+            <idno type="STC">Wing J485A</idno>
+            <idno type="STC">ESTC R8919</idno>
+            <idno type="EEBO-CITATION">12418134</idno>
+            <idno type="OCLC">ocm 12418134</idno>
+            <idno type="VID">61771</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70374)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61771)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 943:17 or 1741:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse concerning banks</title>
+                  <author>Janssen, Theodore, Sir, 1658?-1748.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Knapton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDC XC VII [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Theodore Janssen. cf. NUC pre-1956.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>This item appears at reel 943:17 incorrectly identified as Wing J486, and at reel 1741:11 as Wing J485A.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bank of England.</term>
+               <term>Banks and banking --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:61771:1" rendition="simple:additions"/>
+            <head>
+               <hi>A</hi> Diſcourſe <hi>concerning</hi> BANKS.</head>
+            <p>AT this preſent time, when ſo much is thought to depend upon the well-modelling of a Bank in <hi>England,</hi> a ſhort Account of Banks ſettled in other Parts, 'tis hoped, will not be unaccepta<g ref="char:EOLhyphen"/>ble to the Publick. I am the more induced to give this Account, by the reading of a Paper lately come abroad, debating <hi>the Reaſons for and againſt Ingrafting,</hi> full of No<g ref="char:EOLhyphen"/>tions ſo directly oppoſite to what I ever heard or under<g ref="char:EOLhyphen"/>ſtood of Banks, that there is good Ground to believe, the Author having had a Share in the Management of the B. of <hi>E.</hi> and his Opinions having prevailed, hath been in a great meaſure the Cauſe of all the falſe Steps that have brought ſo excellent a Conſtitution under this preſent Diſrepute. The great Miſtake of this Gentleman, which leads him into all his other Errors, is; That a Bank ought to get; and therefore to admit of new Sharers in that imaginary Profit, is a manifeſt Self-denial. The beſt way to confute his Opinion, will be, to ſhew the Practice of other Banks, and thereby make it appear, that they have been very uſeful to the Publick, and won<g ref="char:EOLhyphen"/>derfully beneficial to themſelves, without ever aiming at any other Advantage than that of circulating the Whole upon part of the Capital.</p>
+            <p>There are, in ſeveral Parts of <hi>Europe,</hi> about 30 Banks; they vary more or leſs in ſome part of their Conſtitution or Management; but they are chiefly or three ſorts. Some are only for Safety and Conveniency; others are for the Benefit of the Income only; and others both for Safety and Conveniency, and likewiſe for Benefit and Advantage.</p>
+            <p>Of the firſt kind are the Banks of <hi>Amſterdam, Rotter<g ref="char:EOLhyphen"/>dam,
+<pb n="2" facs="tcp:61771:2"/>Hamburgh</hi> and <hi>Stockholm:</hi> Theſe Banks have no Income, no Adventurers or Sharers in their Profits: They are only great Cheſts, for the Conveniency of transfer<g ref="char:EOLhyphen"/>ring from one Account to another; and where Merchants depoſite their Money, if they think it ſafer there than in their own Houſes. In Places of great Traffick, ſuch as <hi>Amſterdam</hi> and <hi>Hamburgh,</hi> all foreign Bills of Exchange and other great Paiments, are, by Law, to be paid in Bank, unleſs both Parties agree it otherwiſe; but if one of the Parties inſiſts, the Paiment muſt be made in Bank; elſe it would be very difficult for great Traders to deal for ſuch vaſt Sums as they do in both thoſe Places. Theſe Banks are under the Care and Conduct of the Magiſtracy of the Places where they are erected: and as they never trade or meddle with any Buſineſs, there is very little Trouble in their Management; two or three of the Ma<g ref="char:EOLhyphen"/>giſtrates having an Eye upon the Servants and Books of Transfer, direct the whole Matter. The Banks of <hi>Am<g ref="char:EOLhyphen"/>ſterdam</hi> and <hi>Hamburgh</hi> lend ſome ſmall Sums upon Pawns, but the Sum they have liberty to lend is limited, and the Profit thereof accrues to the Benefit of the Town, which defrayeth the Charge of the Bank, and is anſwerable for all the Money lodg'd therein: So that theſe Banks are ſafe and ſecure, and ſerve only to avoid the Trouble of Telling: which Conveniency is found of ſo great Impor<g ref="char:EOLhyphen"/>tance for carrying on a great Trade, that no conſiderable Trading-Town can well be without it.</p>
+            <p>The Banks of the ſecond kind, that are for the Benefit of the Income only, are, the Banks of <hi>Rome,</hi> the Banks of <hi>Bolonia</hi> and <hi>Milan,</hi> and the Bank of <hi>Paris;</hi> (the Rents conſtituted on the Town-houſe of <hi>Paris,</hi> being of the ſame nature as the Rents of the Banks of <hi>Rome,</hi> and ſome others in <hi>Italy.</hi>) Theſe Banks are made up of a certain number of Men, who in time of War or other Exigencies of the State, advanced Sums of Money upon Funds, granted <hi>in
+<pb n="3" facs="tcp:61771:2"/>perpetuum,</hi> but redeemable: Thoſe concern'd therein con<g ref="char:EOLhyphen"/>tent themſelves with the Intereſt, elſe they ſell their Stock, or part thereof, when they have occaſion for the Principal. But theſe Banks keep no Caſh, or ever have any Stock of Money: They are under the Management of ſome few Overſeers, all equal in Dignity, that take care to divide the Revenue to the Proprietors; only the Bank of <hi>Paris</hi> hath the King for a Governour, who ſome<g ref="char:EOLhyphen"/>times diſpoſes of the Incomes at his pleaſure, or ſtops part thereof for his own Uſe. Theſe Banks are properly Funds of perpetual Intereſt, transferable and redeemable, and ſute beſt with Places of little Traffick, where the gathering into one Place a great Maſs of Treaſure might endanger the Loſs of it.</p>
+            <p>The third kind of Banks, that are both for the Conve<g ref="char:EOLhyphen"/>niency of the Publick, and for the Advantage of the Un<g ref="char:EOLhyphen"/>dertakers, are, the ſeveral Banks of <hi>Naples,</hi> one of the Banks of <hi>Bolonia,</hi> and the Bank of <hi>St. George</hi> at <hi>Genoa:</hi> Theſe Banks did not only advance Sums of Money upon Funds of perpetual Intereſt, at the time of their Eſta<g ref="char:EOLhyphen"/>bliſhment, but by their being a ſafe Depoſitory of Mo<g ref="char:EOLhyphen"/>ney, obtaining a Credit, they have been able to lend great Sums upon good Securities: Some of theſe Banks have been proſperous to that degree, as to enjoy their Revenue, upon their having in Stock only one fourth, one third, or one half of the Capital: And if I am right<g ref="char:EOLhyphen"/>ly inform'd, one of them is ſo happy, that the Proprie<g ref="char:EOLhyphen"/>tors have the Benefit of the full Income, without having a Penny of their own in Stock; ſo great and ſo ſolid a Credit hath acquired to this Bank, the prudent and regu<g ref="char:EOLhyphen"/>lar Conduct of its Directors. But none of all theſe Banks ever attempted to trade, much leſs concern'd themſelves in Exchanges, which of all Trades is the moſt tickliſh and dangerous: They arrived at that vaſt Credit, by keeping within Bounds, by lending upon undoubted Se<g ref="char:EOLhyphen"/>curities,
+<pb n="4" facs="tcp:61771:3"/>for a ſhort time, and at a very low Intereſt. The Bank that hath the Benefit of its full Income without any Capital of their own, never exceeded the Rate of 4 <hi>per cent.</hi> their conſtant Practice is to take but 3 <hi>per cent.</hi> and ſometimes upon a Security to their liking and entire Satisfaction, they have lent at 1 <hi>per cent. per annum.</hi> By ſuch Methods, they are not only look'd upon as wiſe and judicious Managers, that do not venture too far up<g ref="char:EOLhyphen"/>on Uncertainties; but by lending at theſe low Rates, they gain the Love of the People, and no body grudges them their Caſh, when they ſee it us'd more for the Advan<g ref="char:EOLhyphen"/>tage of the Publick, than for the private Lucre of the Undertakers.</p>
+            <p>The Bank of <hi>England</hi> is of this mixt kind: It is ſquared both for Conveniency and Safety, and alſo for Benefit and Advantage: No Bank in the World ever was ſo happily conſtituted, no Bank hath ſo great a Revenue, ſettled upon ſo good a Fund, and ſo little paid for it. Had not its Managers aim'd at greater Gains than their Income, there had been no occaſion to have call'd in more than the Subſcription-Money, which was 25 <hi>per cent.</hi> Their firſt Deputy Governour Mr. <hi>M. G.</hi> often us'd to ſay, that he would never have call'd in for more, had he not deſign'd ſome further great Undertaking: I cannot tell whether thoſe that have had the governing part ſince have acted by the ſame Spirit; but 'tis certain, that through a miſ<g ref="char:EOLhyphen"/>taken Notion of Banks, <hi>which are deſign'd to help others to trade, but not to trade themſelves,</hi> they endeavour'd to get over and above their hundred thouſand Pound a Year. Had they been contented with their Revenue, never in<g ref="char:EOLhyphen"/>croach'd upon other Mens Imployments, by dealing in Exchanges, and importing and exporting Silver; nor coveted great Profits, by lending vaſt Sums, without a Proſpect of being in a ſhort time repaid; but made uſe of the Money that was truſted in their Hands, for the
+<pb n="5" facs="tcp:61771:3"/>Relief of ſuch as had occaſion for it, upon very good Secu<g ref="char:EOLhyphen"/>rities, and at a very low Intereſt; they had given more Satisfaction, and had the Caſh of the whole Town; by which means, without adventuring at Sea, or running the hazard of bad Bills and of bad Correſpondents, they might by a well-ſettled Credit, upon the firſt 25 <hi>per Cent.</hi> or upon 50 <hi>per Cent.</hi> at moſt, have circulated the whole; and ſo without any other Gain, might conſtantly have in<g ref="char:EOLhyphen"/>joy'd a Benefit of 16 if not of 32 <hi>per Cent. per annum;</hi> which is Profit enough to ſatisfy any moderate or reaſo<g ref="char:EOLhyphen"/>nable Man. But if a Bank grounds its Advantages upon getting beyond its Income, ſuch a Deſign will create Envy and Enemies, and the Hazards run in the Attempt of ſuch Gains, render it leſs ſafe and ſecure, and conſequently leſſen its Credit.</p>
+            <p>The Caſe being thus, <hi>viz.</hi> That a Bank ought not by aiming a vaſt exorbitant Gains, to ſpoil its Credit; but on the contrary, ought by a judicious and cautious Conduct, to endeavour to maintain it ſo, as to circulate the whole on part of the Stock, and thereby inſtead of 8 <hi>per Cent.</hi> make 16 <hi>per cent.</hi> or more <hi>per annum:</hi> what Reaſon can any Member of the preſent B. of <hi>E.</hi> have (except ſuch as deſire to be perpetual Directors) to be againſt an Ingraftment? They ought rather to wiſh for an Addition of new Adventurers; for 'tis evident, the greater Income it hath, and the more Members there are, the better will it be able to ſupport it ſelf, and to circulate one hundred with fifty or leſs: which in my opinion is a ſurer way of Gain, and turns to better account, than to add 2 or 3 <hi>per Cent.</hi> to the 8 <hi>per Cent.</hi> for 20 or 30000 <hi>
+                  <abbr>l.</abbr> per annum</hi> is as much, as thoſe that are ſo fond of the Trade of a Bank are in hopes to get by their Management; and for the doing of which, they muſt run great Hazards, and diſoblige an infinite number of People. But ſuch is the natural Temper of ſome Men, that they had
+<pb n="6" facs="tcp:61771:4"/>rather get leſs, and have no Sharers in their Profits, than to get more, if others are alſo to reap a Benefit by it: whereas the principal Care of good Directors ſhould be, how to get the good will of Mankind, as being the beſt, if not the only way to make a Bank great and flouriſhing. Therefore 'tis a queſtion with me, whether a Bank ought to lend at any higher Intereſt than after the rate of 3 <hi>per Cent. per annum:</hi> This Limitation, and its being reſtrain<g ref="char:EOLhyphen"/>ed from all Trade without exception, would ſecure to the B. of <hi>E.</hi> a firm and laſting Credit, and in time perhaps make it as ſucceſsful as that Bank of <hi>Bolonia,</hi> which injoys its Revenue intirely upon its Credit: for what cannot one expect from a Conſtitution ſo happily framed, which hath no means left to procure its own Good, but by procuring the good of others, that is ſupported by ſo many Thou<g ref="char:EOLhyphen"/>ſands, as it will be after its Ingraftment; and which ſets to it ſelf a Rule, to ſtudy nothing ſo much, as the pro<g ref="char:EOLhyphen"/>moting the Eaſe, Conveniency, and Accommodation of all People?</p>
+            <p>I ſhall conclude with ſome few Remarks, <hi>viz.</hi>
+               <list>
+                  <item>
+                     <hi>Firſt;</hi> That no other Bank gives out Notes payable to the Bearer, they all keep to a Transfer, excepting the Bills payable to Order allow'd by their Settlement. Such as have a mind to place their Money in the Bank, muſt bring it thither, and there they have Credit given them for the Sums they bring: This preſerves the Majeſty of the Bank, prevents Cheats and Counterfeits, hinders inconſiderable Dealers from having to do with the Bank; which by this means keeps within a certain Compaſs of great Buſineſs, avoids Confuſion and a great deal of unneceſſary Trouble: Banks being indeed only for the Conveniency of great Payments, and not to keep the Caſh of every petty Re<g ref="char:EOLhyphen"/>tailer; to do both is inconſiſtent, and not practicable where there is much Trade. In <hi>Amſterdam,</hi> there are a great many Caſhiers who keep the ſmall Caſh of Mer<g ref="char:EOLhyphen"/>chants
+<pb n="7" facs="tcp:61771:4"/>and others, no Body being allow'd to transfer a leſſer Sum than 300 Gilders or 30 <abbr>
+                        <hi>l.</hi>
+                     </abbr> in the Bank-Books, without a Penalty.</item>
+                  <item>
+                     <hi>Secondly;</hi> That no Bank, unleſs on ſome emergent occa<g ref="char:EOLhyphen"/>ſion, ever paid Intereſt, except the B. of <hi>E.</hi> the Managers whereof drew upon themſelves the great Inconveniency they lay under of paying ſo much Intereſt, by their Am<g ref="char:EOLhyphen"/>bition of graſping at all; therefore if nothing be un<g ref="char:EOLhyphen"/>dertaken for the future, but what is regular and accord<g ref="char:EOLhyphen"/>ing to the true Nature of a Bank, it needs not pay Inte<g ref="char:EOLhyphen"/>reſt, when 'tis once a float.</item>
+                  <item>
+                     <hi>Thirdly;</hi> A Bank muſt never preſume upon its own Me<g ref="char:EOLhyphen"/>rit, or pretend to have done Services; it becomes a Bank of all other Conſtitutions, to keep within the Bounds of Modeſty; it hath nothing of its own; when it lends Mo<g ref="char:EOLhyphen"/>ney, 'tis other Peoples Money; the Government is not oblig'd to the B. of <hi>E.</hi> for having lent it great Sums; the Government is oblig'd to thoſe Perſons whoſe Money it was, and who now ſuffer for it: (althô some, who had the chief hand in lending the laſt 200000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> when the E. of <hi>P.</hi> came over, claim a great Merit to their F—, whoſe Health for that Service was drunk as often, as the Health of <hi>John</hi> King of <hi>Poland,</hi> after his Raiſing the Siege of <hi>Vienna,</hi> if what they have expreſt themſelves may be believ'd.) If a Bank boaſts of its Loans, it gives Offence to thoſe who enabled it to lend, and conſequently they will withdraw their Caſh.</item>
+               </list>
+            </p>
+            <p>To ſum up all, the Author of the Letter againſt In<g ref="char:EOLhyphen"/>grafting did, as he ſaith, ſubſcribe to the Bank, in hopes to get ſomething beſides the 8 <hi>per Cent.</hi> In order there<g ref="char:EOLhyphen"/>unto, the Bank did trade in Exchanges and Bullion; it did run great Hazards both by Sea and Land; it diſob<g ref="char:EOLhyphen"/>lig'd abundance of People, and drew upon it ſelf the hatred of the Merchants; and notwithſtanding all this, it did not get the 2 or 3 <hi>per Cent.</hi> but loſt its Credit and Reputation.</p>
+            <pb n="8" facs="tcp:61771:5"/>
+            <p>The Author of this Diſcourſe came alſo into the Bank, in hopes to make ſome Advantages of his Money, and for that purpoſe could have wiſht the Bank had not med<g ref="char:EOLhyphen"/>dled with any kind of Trade whatſoever, but had kept to the following Rules, <hi>viz.</hi>
+            </p>
+            <p>To lend upon good Pawns at a very low Intereſt.</p>
+            <p>To diſcount Bills of Exchange at a very low Rate.</p>
+            <p>To take Tallies at <hi>par,</hi> that had a very ſhort time to run.</p>
+            <p>By theſe Methods, the Bank had been ſerviceable to all Men; it had got wherewithal to defray its Charges; it had maintain'd its Credit and Reputation; in ſhort, it had been able to divide the 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> a Year upon 600000 <abbr>
+                  <hi>l.</hi>
+               </abbr> Stock or leſs, which is 16 <hi>per Cent.</hi> at leaſt <hi>per annum.</hi>
+            </p>
+            <p>Now which of theſe two Methods is moſt proper for a Bank, and moſt conducive to its Advantage and Proſpe<g ref="char:EOLhyphen"/>rity, is left to the Judgment of thoſe, who ſhall pleaſe to conſider of it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>James Knapton</hi> at the Crown in St. <hi>Paul</hi> 's Church-Yard. MDCXCVII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
